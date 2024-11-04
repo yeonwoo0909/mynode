@@ -1,0 +1,22 @@
+{
+  "name": "mynode2",
+  "version": "0.0.7",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeonwoo0909/mynode2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeonwoo0909/mynode2/issues"
+  },
+  "homepage": "https://github.com/yeonwoo0909/mynode2#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
